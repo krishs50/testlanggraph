@@ -1,4 +1,1 @@
 test1
-
-git config --global user.name "krishs50"
-git config --global user.email "ksujeesh0071@gmail.com"
